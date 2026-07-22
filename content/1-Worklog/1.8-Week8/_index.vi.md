@@ -17,5 +17,4 @@ Tối ưu hóa và hoàn thiện luồng giao tiếp dữ liệu giữa Server v
 | 5, 6 | Cập nhật luồng dữ liệu Server - Client: <br> Điều chỉnh và hoàn thiện logic API tải danh sách màn chơi, đảm bảo dữ liệu cấu hình từ Server được trả về Client một cách chính xác và mượt mà. | 25/06/2026 | 26/06/2026 |  |
 
 ### Kết quả đạt được tuần 8:
-
-Hoàn thiện được chu trình phát triển một tính năng hoàn chỉnh (Minigame Sudoku) từ khâu thiết kế Database, viết API Serverless cho đến tích hợp giao diện.
+* Hoàn thiện được chu trình phát triển một tính năng hoàn chỉnh (Minigame Sudoku) từ khâu thiết kế Database, viết API Serverless cho đến tích hợp giao diện.

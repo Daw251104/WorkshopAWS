@@ -19,6 +19,5 @@ Nghiên cứu và triển khai giải pháp lưu trữ, phân phối nội dung 
 
 
 ### Kết quả đạt được tuần 5:
-Nắm được cách vận hành và triển khai mã nguồn trên một môi trường Cloud IDE hiện đại.
-
-Thực hành thành công giải pháp kết hợp S3 và CloudFront, giúp dự án tối ưu hóa thời gian tải tài nguyên tĩnh (Static Assets), giảm độ trễ (Latency) và nâng cao trải nghiệm người dùng (UX).
+* Nắm được cách vận hành và triển khai mã nguồn trên một môi trường Cloud IDE hiện đại.
+* Thực hành thành công giải pháp kết hợp S3 và CloudFront, giúp dự án tối ưu hóa thời gian tải tài nguyên tĩnh (Static Assets), giảm độ trễ (Latency) và nâng cao trải nghiệm người dùng (UX).

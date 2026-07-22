@@ -19,8 +19,6 @@ Phân tích nghiệp vụ, làm rõ yêu cầu của dự án và nghiên cứu 
 
 
 ### Kết quả đạt được tuần 3:
-Cải thiện kỹ năng làm việc nhóm, biết cách phân tích nghiệp vụ và chia nhỏ task để quản lý.
-
-Hiểu và thiết lập được kết nối mạng lai (Hybrid Cloud) an toàn thông qua Site-to-Site VPN.
-
-Học được cách áp dụng các dịch vụ Managed Services của AWS (Cognito, S3) vào quy trình phát triển phần mềm thực tế.
+* Cải thiện kỹ năng làm việc nhóm, biết cách phân tích nghiệp vụ và chia nhỏ task để quản lý.
+* Hiểu và thiết lập được kết nối mạng lai (Hybrid Cloud) an toàn thông qua Site-to-Site VPN.
+* Học được cách áp dụng các dịch vụ Managed Services của AWS (Cognito, S3) vào quy trình phát triển phần mềm thực tế.

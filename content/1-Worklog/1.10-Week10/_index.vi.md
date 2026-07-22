@@ -19,5 +19,5 @@ Nâng cấp kiến trúc bảo mật Zero-Trust đa lớp và hoàn thiện các
 
 
 ### Kết quả đạt được tuần 10:
-Áp dụng thành công nguyên tắc Zero-Trust trong thiết kế hệ thống Client-Server, đảm bảo mọi thao tác quan trọng và biến động tài nguyên đều được Server giám sát và quyết định.
-Nâng cao kỹ năng tối ưu hóa chi phí Cloud (Cost Optimization), biết cách tinh chỉnh dữ liệu Frontend để giảm thiểu gánh nặng cho Backend và Database (DynamoDB).
+* Áp dụng thành công nguyên tắc Zero-Trust trong thiết kế hệ thống Client-Server, đảm bảo mọi thao tác quan trọng và biến động tài nguyên đều được Server giám sát và quyết định.
+* Nâng cao kỹ năng tối ưu hóa chi phí Cloud (Cost Optimization), biết cách tinh chỉnh dữ liệu Frontend để giảm thiểu gánh nặng cho Backend và Database (DynamoDB).

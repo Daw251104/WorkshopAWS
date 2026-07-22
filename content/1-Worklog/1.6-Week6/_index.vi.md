@@ -19,6 +19,5 @@ Phân tích các mẫu truy cập dữ liệu (Access Patterns) và thiết kế
 
 
 ### Kết quả đạt được tuần 6:
-
-Tạo được một số tính năng tương tác của người dừng trên client với Sudoku.
-Thiết kế dữ liệu cho sudoku để đưa lên dynamoDB.
+* Tạo được một số tính năng tương tác của người dừng trên client với Sudoku.
+* Thiết kế dữ liệu cho sudoku để đưa lên dynamoDB.

@@ -19,6 +19,5 @@ Thảo luận đề tài nhóm và tìm hiểu về AWS IAM
 
 
 ### Kết quả đạt được tuần 2:
-
-Nắm vững nguyên tắc đặc quyền tối thiểu (Least Privilege) khi cấp quyền thông qua AWS IAM.
-Có khả năng triển khai máy chủ EC2 và khắc phục các sự cố kết nối mạng cơ bản
+* Nắm vững nguyên tắc đặc quyền tối thiểu (Least Privilege) khi cấp quyền thông qua AWS IAM.
+* Có khả năng triển khai máy chủ EC2 và khắc phục các sự cố kết nối mạng cơ bản.

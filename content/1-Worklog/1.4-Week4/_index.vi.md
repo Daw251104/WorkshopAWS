@@ -18,6 +18,5 @@ Tìm hiểu về kiến trúc Serverless thông qua dịch vụ điện toán đ
 
 
 ### Kết quả đạt được tuần 4:
-Thành thạo các công cụ quản trị khác nhau (Console, CLI, SDK) để làm việc linh hoạt với hệ thống NoSQL DynamoDB.
-
-Sơ bộ nắm bắt tư duy thiết kế hệ thống dạng Serverless để tối ưu chi phí vận hành và khả năng mở rộng tự động.
+* Thành thạo các công cụ quản trị khác nhau (Console, CLI, SDK) để làm việc linh hoạt với hệ thống NoSQL DynamoDB.
+* Sơ bộ nắm bắt tư duy thiết kế hệ thống dạng Serverless để tối ưu chi phí vận hành và khả năng mở rộng tự động.

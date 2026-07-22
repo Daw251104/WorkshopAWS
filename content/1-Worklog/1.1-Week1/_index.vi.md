@@ -18,6 +18,6 @@ Tham gia chương trình FCAJ, tìm hiểu dịch vụ AWS.
 
 
 ### Kết quả đạt được tuần 1:
- Làm quen với môi trường làm việc của công ty.
- Tham gia Event, học hỏi một số kinh nghiệm do các mentor chia sẻ.
- Tìm hiểu một số dịch vụ của AWS.
+* Làm quen với môi trường làm việc của công ty.
+* Tham gia Event, học hỏi một số kinh nghiệm do các mentor chia sẻ.
+* Tìm hiểu một số dịch vụ của AWS.

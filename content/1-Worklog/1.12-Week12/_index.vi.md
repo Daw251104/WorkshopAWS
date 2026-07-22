@@ -18,5 +18,4 @@ Viết báo cáo và tổng kết dự án
 
 
 ### Kết quả đạt được tuần 12:
-
-Hoàn thành workshop và báo cáo thực tập
+* Hoàn thành workshop và báo cáo thực tập.
