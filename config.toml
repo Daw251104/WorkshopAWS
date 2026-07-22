@@ -1,4 +1,4 @@
-baseURL = "https://KhangChinh.github.io/BaoCaoThucTapAWS/"
+baseURL = "https://Daw251104.github.io/WorkshopAWS/"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
@@ -11,7 +11,7 @@ theme = "hugo-theme-learn"
 home = [ "HTML", "RSS", "JSON"]
 
 [params]
-  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  # Change default color scheme with á variant one. Can be "red", "blue", "green".
   themeVariant = "workshop"
   # Git hub repo link
   editURL = ""
