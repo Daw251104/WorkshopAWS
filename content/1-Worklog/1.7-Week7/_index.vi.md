@@ -6,10 +6,9 @@ chapter: false
 pre: " <b> 1.7. </b> "
 ---
 ### Mục tiêu tuần 7:
-
-Hoàn thiện hệ thống API Backend cho Minigame (Sudoku) bằng kiến trúc Serverless (AWS Lambda).
-Xử lý các luồng giao dịch tài nguyên phức tạp, đảm bảo tính toàn vẹn dữ liệu trong cơ sở dữ liệu.
-Nghiên cứu và áp dụng các cơ chế chống gian lận (Anti-cheat) để bảo vệ hệ thống trước các hành vi can thiệp trái phép từ phía Client.
+* Hoàn thiện hệ thống API Backend cho Minigame (Sudoku) bằng kiến trúc Serverless (AWS Lambda).
+* Xử lý các luồng giao dịch tài nguyên phức tạp, đảm bảo tính toàn vẹn dữ liệu trong cơ sở dữ liệu.
+* Nghiên cứu và áp dụng các cơ chế chống gian lận (Anti-cheat) để bảo vệ hệ thống trước các hành vi can thiệp trái phép từ phía Client.
 
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |

@@ -7,9 +7,8 @@ pre: " <b> 1.5. </b> "
 ---
 
 ### Mục tiêu tuần 5:
-Tiếp cận và làm quen với môi trường phát triển tích hợp trên nền tảng đám mây (Cloud IDE) thông qua AWS Cloud9.
-
-Nghiên cứu và triển khai giải pháp lưu trữ, phân phối nội dung tĩnh tối ưu hiệu năng cho dự án thực tế bằng sự kết hợp giữa AWS S3 và mạng phân phối nội dung (CDN) Amazon CloudFront.
+* Tiếp cận và làm quen với môi trường phát triển tích hợp trên nền tảng đám mây (Cloud IDE) thông qua AWS Cloud9.
+* Nghiên cứu và triển khai giải pháp lưu trữ, phân phối nội dung tĩnh tối ưu hiệu năng cho dự án thực tế bằng sự kết hợp giữa AWS S3 và mạng phân phối nội dung (CDN) Amazon CloudFront.
 
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |

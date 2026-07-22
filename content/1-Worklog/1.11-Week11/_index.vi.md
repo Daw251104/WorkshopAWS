@@ -6,8 +6,7 @@ chapter: false
 pre: " <b> 1.11. </b> "
 ---
 ### Mục tiêu tuần 11:
-
-Xây dựng thêm minigame Minesweeper và thiết lập hệ thống bảng xếp
+* Xây dựng thêm minigame Minesweeper và thiết lập hệ thống bảng xếp hạng.
 
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |

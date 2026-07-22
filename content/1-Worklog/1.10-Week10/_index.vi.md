@@ -6,9 +6,8 @@ chapter: false
 pre: " <b> 1.10. </b> "
 ---
 ### Mục tiêu tuần 10:
-
-Xây dựng hệ thống theo dõi và ghi nhận thao tác (Generic Logging) cục bộ cho Minigame nhằm phục vụ công tác giám sát người chơi.
-Nâng cấp kiến trúc bảo mật Zero-Trust đa lớp và hoàn thiện các API quản lý vòng đời ván đấu (kiểm tra lỗi, nộp bài, tính điểm).
+* Xây dựng hệ thống theo dõi và ghi nhận thao tác (Generic Logging) cục bộ cho Minigame nhằm phục vụ công tác giám sát người chơi.
+* Nâng cấp kiến trúc bảo mật Zero-Trust đa lớp và hoàn thiện các API quản lý vòng đời ván đấu (kiểm tra lỗi, nộp bài, tính điểm).
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --------- | ------------ | --------------- | -------------- |

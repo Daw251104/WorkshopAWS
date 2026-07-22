@@ -7,8 +7,7 @@ pre: " <b> 1.3. </b> "
 ---
 
 ### Mục tiêu tuần 3:
-
-Phân tích nghiệp vụ, làm rõ yêu cầu của dự án và nghiên cứu kiến thức về lưu trữ (AWS S3)
+* Phân tích nghiệp vụ, làm rõ yêu cầu của dự án và nghiên cứu kiến thức về lưu trữ (AWS S3).
 
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |

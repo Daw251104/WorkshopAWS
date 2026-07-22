@@ -7,7 +7,7 @@ pre: " <b> 1.2. </b> "
 ---
 
 ### Mục tiêu tuần 2:
-Thảo luận đề tài nhóm và tìm hiểu về AWS IAM
+* Thảo luận đề tài nhóm và tìm hiểu về AWS IAM.
 
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |

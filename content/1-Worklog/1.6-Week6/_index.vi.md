@@ -7,9 +7,8 @@ pre: " <b> 1.6. </b> "
 ---
 
 ### Mục tiêu tuần 6:
-
-Thiết kế và phát triển tính năng Minigame (Sudoku) trên client.
-Phân tích các mẫu truy cập dữ liệu (Access Patterns) và thiết kế lược đồ cơ sở dữ liệu NoSQL tối ưu trên Amazon DynamoDB phục vụ cho Minigame.
+* Thiết kế và phát triển tính năng Minigame (Sudoku) trên client.
+* Phân tích các mẫu truy cập dữ liệu (Access Patterns) và thiết kế lược đồ cơ sở dữ liệu NoSQL tối ưu trên Amazon DynamoDB phục vụ cho Minigame.
 
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |

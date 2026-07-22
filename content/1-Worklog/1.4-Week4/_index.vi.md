@@ -7,8 +7,8 @@ pre: " <b> 1.4. </b> "
 ---
 
 ### Mục tiêu tuần 4:
-Nghiên cứu lý thuyết và thực hành triển khai Cơ sở dữ liệu quan hệ (Amazon RDS) và Phi quan hệ (Amazon DynamoDB).
-Tìm hiểu về kiến trúc Serverless thông qua dịch vụ điện toán đám mây AWS Lambda.
+* Nghiên cứu lý thuyết và thực hành triển khai Cơ sở dữ liệu quan hệ (Amazon RDS) và Phi quan hệ (Amazon DynamoDB).
+* Tìm hiểu về kiến trúc Serverless thông qua dịch vụ điện toán đám mây AWS Lambda.
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --------- | ------------ | --------------- | -------------- |

@@ -7,8 +7,8 @@ pre: " <b> 1.9. </b> "
 ---
 
 ### Mục tiêu tuần 9:
-Tối ưu hóa hiệu năng hiển thị và giảm độ trễ (latency) cho ứng dụng bằng cách xây dựng cơ chế bộ nhớ đệm (cache) phía Client.
-Hoàn thiện thuật toán sinh màn chơi động (Dynamic Generation) và quản lý phiên chơi (Session Management)
+* Tối ưu hóa hiệu năng hiển thị và giảm độ trễ (latency) cho ứng dụng bằng cách xây dựng cơ chế bộ nhớ đệm (cache) phía Client.
+* Hoàn thiện thuật toán sinh màn chơi động (Dynamic Generation) và quản lý phiên chơi (Session Management).
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --------- | ------------ | --------------- | -------------- |

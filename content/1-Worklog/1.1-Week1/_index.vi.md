@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 1.1. </b> "
 ---
 ### Mục tiêu tuần 1:
-Tham gia chương trình FCAJ, tìm hiểu dịch vụ AWS.
+* Tham gia chương trình FCAJ, tìm hiểu dịch vụ AWS.
 
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |

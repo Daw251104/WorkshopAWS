@@ -7,8 +7,8 @@ pre: " <b> 1.8. </b> "
 ---
 
 ### Mục tiêu tuần 8:
-Thiết lập và khởi tạo dữ liệu màn chơi cho hệ thống Minigame Sudoku trên cơ sở dữ liệu đám mây.
-Tối ưu hóa và hoàn thiện luồng giao tiếp dữ liệu giữa Server và Client, đảm bảo tính đồng bộ và chính xác khi hiển thị nội dung game.
+* Thiết lập và khởi tạo dữ liệu màn chơi cho hệ thống Minigame Sudoku trên cơ sở dữ liệu đám mây.
+* Tối ưu hóa và hoàn thiện luồng giao tiếp dữ liệu giữa Server và Client, đảm bảo tính đồng bộ và chính xác khi hiển thị nội dung game.
 
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
