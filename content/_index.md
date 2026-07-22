@@ -13,7 +13,7 @@ chapter: false
 
 &emsp; **Email:** datp914@gmail.com
 
-&emsp; **University:** HCMC University of Technology (HUTECH)
+&emsp; **University:** HUTECH University of Technology
 
 &emsp; **Major:** Information Technology
 

@@ -17,6 +17,8 @@ chapter: false
 
 &emsp; **Ngành:** Công nghệ thông tin
 
+&emsp; **Chuyên Ngành:** Công nghệ phần mềm
+
 &emsp; **Lớp:** 22DTHE3
 
 &emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Viet Nam
