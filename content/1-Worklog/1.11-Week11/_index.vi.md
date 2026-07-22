@@ -18,9 +18,7 @@ pre: " <b> 1.11. </b> "
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --------- | ------------ | --------------- | -------------- |
 | 3 | Xây dựng hệ thống bảng xếp hạng điểm người chơi cho từng minigame: | 14/07/2026 | 14/07/2026 |  |
-| 5 | Xây dựng chức năng minigame Minesweeper với luồng hoạt động giống với Sudoku | 16/07/2026 | 18/07/2026 |  |
-| 6 | Xây dựng chức năng minigame Minesweeper với luồng hoạt động giống với Sudoku | 16/07/2026 | 18/07/2026 |  |
-| 7 | Xây dựng chức năng minigame Minesweeper với luồng hoạt động giống với Sudoku | 16/07/2026 | 18/07/2026 |  |
+| 5, 6, 7 | Xây dựng chức năng minigame Minesweeper với luồng hoạt động giống với Sudoku | 16/07/2026 | 18/07/2026 |  |
 
 
 ### Kết quả đạt được tuần 11:

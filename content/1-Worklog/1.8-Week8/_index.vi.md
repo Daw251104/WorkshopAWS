@@ -18,9 +18,7 @@ pre: " <b> 1.8. </b> "
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --------- | ------------ | --------------- | -------------- |
 | 3 | Khởi tạo dữ liệu hệ thống (Database):Xây dựng và đẩy toàn bộ dữ liệu cấu hình của các màn chơi (levels) Sudoku lên cơ sở dữ liệu Amazon DynamoDB. | 23/06/2026 | 23/06/2026 |  |
-| 5 | Cập nhật luồng dữ liệu Server - Client: <br> Điều chỉnh và hoàn thiện logic API tải danh sách màn chơi, đảm bảo dữ liệu cấu hình từ Server được trả về Client một cách chính xác và mượt mà. | 25/06/2026 | 26/06/2026 |  |
-| 6 | Cập nhật luồng dữ liệu Server - Client: <br> Điều chỉnh và hoàn thiện logic API tải danh sách màn chơi, đảm bảo dữ liệu cấu hình từ Server được trả về Client một cách chính xác và mượt mà. | 25/06/2026 | 26/06/2026 |  |
-
+| 5, 6 | Cập nhật luồng dữ liệu Server - Client: <br> Điều chỉnh và hoàn thiện logic API tải danh sách màn chơi, đảm bảo dữ liệu cấu hình từ Server được trả về Client một cách chính xác và mượt mà. | 25/06/2026 | 26/06/2026 |  |
 
 ### Kết quả đạt được tuần 8:
 

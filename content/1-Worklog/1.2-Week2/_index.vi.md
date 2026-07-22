@@ -20,8 +20,7 @@ pre: " <b> 1.2. </b> "
 | 2 | Thảo luận nhóm để triển khai đề tài  | 11/05/2026 | 11/05/2026 |  |
 | 3 | Thực hiện các bài lab về Quản trị quyền truy cập với AWS Identity and Access Management (IAM): <br> -Tạo IAM Group và IAM User <br> -Tạo IAM Role và IAM User <br> -Chuyển đổi IAM Role | 12/05/2026 | 12/05/2026 | <https://000002.awsstudygroup.com/vi/> |
 | 5 | Tìm hiểu về Amazon Virtual Private Cloud (Amazon VPC): <br> -Subnets <br> -Route Table <br> -Internet Gateway <br> -NAT Gateway <br> Tường lửa trong VPC: <br> -Security Group <br> -Network ACLs <br> -VPC Resource Map | 14/05/2026 | 14/05/2026 | <https://000003.awsstudygroup.com/vi/> |
-| 6 | Thực hiện các bài lab về Môi trường AWS VPC: <br> -Tạo VPC <br> -Tạo Subnet <br> -Tạo Internet Gateway <br> -Tạo Route Table <br> -Tạo Security Group <br> -Kích hoạt VPC Flow Logs <br> Triển khai Amazon EC2 Instances: <br> -Tạo máy chủ EC2 <br> -Kiểm tra kết nối <br> -Tạo NAT Gateway <br> -Sử dụng Reachability Analyzer | 16/05/2026 | 17/05/2026 | <https://000003.awsstudygroup.com/vi/> |
-| 7 | Thực hiện các bài lab về Môi trường AWS VPC: <br> -Tạo VPC <br> -Tạo Subnet <br> -Tạo Internet Gateway <br> -Tạo Route Table <br> -Tạo Security Group <br> -Kích hoạt VPC Flow Logs <br> Triển khai Amazon EC2 Instances: <br> -Tạo máy chủ EC2 <br> -Kiểm tra kết nối <br> -Tạo NAT Gateway <br> -Sử dụng Reachability Analyzer | 16/05/2026 | 17/05/2026 | <https://000003.awsstudygroup.com/vi/> |
+| 6, 7 | Thực hiện các bài lab về Môi trường AWS VPC: <br> -Tạo VPC <br> -Tạo Subnet <br> -Tạo Internet Gateway <br> -Tạo Route Table <br> -Tạo Security Group <br> -Kích hoạt VPC Flow Logs <br> Triển khai Amazon EC2 Instances: <br> -Tạo máy chủ EC2 <br> -Kiểm tra kết nối <br> -Tạo NAT Gateway <br> -Sử dụng Reachability Analyzer | 16/05/2026 | 17/05/2026 | <https://000003.awsstudygroup.com/vi/> |
 
 
 ### Kết quả đạt được tuần 2:
