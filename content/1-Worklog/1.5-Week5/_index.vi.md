@@ -20,6 +20,10 @@ pre: " <b> 1.5. </b> "
 | 4 | Tìm hiểu và làm lab với AWS Cloud 9 | 03/06/2026 | 03/06/2026 | <https://000049.awsstudygroup.com> |
 | 5 | Tích hợp AWS S3 và CloudFront vào trong dự án để xử lý Avatar user | 04/06/2026 | 06/06/2026 | - https://000094.awsstudygroup.com/vi/
 - https://000057.awsstudygroup.com |
+| 6 | Tích hợp AWS S3 và CloudFront vào trong dự án để xử lý Avatar user | 04/06/2026 | 06/06/2026 | - https://000094.awsstudygroup.com/vi/
+- https://000057.awsstudygroup.com |
+| 7 | Tích hợp AWS S3 và CloudFront vào trong dự án để xử lý Avatar user | 04/06/2026 | 06/06/2026 | - https://000094.awsstudygroup.com/vi/
+- https://000057.awsstudygroup.com |
 
 
 ### Kết quả đạt được tuần 5:

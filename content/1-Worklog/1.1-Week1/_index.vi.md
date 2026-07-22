@@ -5,10 +5,6 @@ weight: 1
 chapter: false
 pre: " <b> 1.1. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
-
 ### Mục tiêu tuần 1:
 
 * Hoàn thành các công việc được giao trong tuần.
@@ -18,8 +14,9 @@ pre: " <b> 1.1. </b> "
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --------- | ------------ | --------------- | -------------- |
 | 3 | Tham gia cộng đồng AWS Việt Nam trên các nền tảng WhatApp, Facebook | 05/05/2026 | 05/05/2026 |  |
+| 5 | Tiềm hiểu về AWS qua FCAJ Workforce Bootcamp - 2026: <br> -Module 01-01 - Introduction to AWS <br> -Module 01-02 Management Console <br> -Module 01-03 Gen AI on AWS - Kiro | 10/05/2026 | 10/05/2026 | <https://youtube.com/playlist?list=PLahN4TLWtox3TSYFbN1DNX7NZgTVXNj3x&si=vuu0FaceRUtvUUBw> |
 | 7 | - Tham gia Meetup ngày 09/05/2026 tại công ty <br> - Tạo tài khoản AWS Free Tier account | 09/05/2026 | 09/05/2026 |  |
-| CN | Tiềm hiểu về AWS qua FCAJ Workforce Bootcamp - 2026: <br> -Module 01-01 - Introduction to AWS <br> -Module 01-02 Management Console <br> -Module 01-03 Gen AI on AWS - Kiro | 10/05/2026 | 10/05/2026 | <https://youtube.com/playlist?list=PLahN4TLWtox3TSYFbN1DNX7NZgTVXNj3x&si=vuu0FaceRUtvUUBw> |
+
 
 
 ### Kết quả đạt được tuần 1:
