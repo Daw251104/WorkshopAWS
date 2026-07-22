@@ -14,7 +14,7 @@ Welcome to the technical documentation for the **Uchimi StudyGamification** proj
 * **Frontend Source Code:** [GitHub Repository - AWSStudy-Play](https://github.com/KhangChinh/AWSStudy-Play)
 * **Backend Source Code:** [GitHub Repository - AWSServerless](https://github.com/KhangChinh/AWSServerless)
 * **Download Desktop App (.exe):** [Download Setup (.exe)](https://drive.google.com/file/d/1Qkdv_nLrQWICSZFCWqytDioq4r35Vyz4/view?usp=sharing)
-
+* **Architecture diagram:** ![AWS architecture diagram](https://res.cloudinary.com/dqblg6ont/image/upload/v1784555384/Uchimi_StudyGamification-Uchimi_Architecture.drawio_nn9xhr.png)
 ## Overview
 
 In an era of rapid digital development, the biggest challenge of self-study is no longer the difficulty of accessing knowledge. The real difficulty lies in the **ability to maintain long-term focus and discipline** so that learning is not interrupted. Learners are easily distracted by countless temptations when using computers, making it extremely difficult to build a sustainable study habit.
