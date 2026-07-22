@@ -25,7 +25,7 @@ chapter: false
 
 &emsp; **Thời gian thực tập:** Từ ngày 05/05/2026 đến ngày 30/07/2026
 
-![Ảnh đại diện của bạn](https://res.cloudinary.com/lpwszzwp/image/upload/v1784653416/CV_h3f8gs.png)
+![Ảnh đại diện](https://res.cloudinary.com/lpwszzwp/image/upload/v1784653416/CV_h3f8gs.png)
 
 
 
