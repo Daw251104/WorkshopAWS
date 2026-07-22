@@ -27,17 +27,17 @@ Chính sách và phúc lợi hỗ trợ cho thực tập sinh rất tốt.
 
 ### Một số câu hỏi khác
 - Điều bạn **hài lòng nhất** trong thời gian thực tập?
-- Điều em hài lòng ở việc có thể tự do chọn ngày lên văn phòng, làm cho thời gian sắp xếp công việc linh hoạt, chủ động hơn.
+* Điều em hài lòng ở việc có thể tự do chọn ngày lên văn phòng, làm cho thời gian sắp xếp công việc linh hoạt, chủ động hơn.
 - Điều bạn nghĩ công ty **cần cải thiện** cho các thực tập sinh sau? 
-- Không có ý kiến cải thiện gì thêm.
+* Không có ý kiến cải thiện gì thêm.
 - Nếu giới thiệu cho bạn bè, bạn có **khuyên họ thực tập ở đây không**? Vì sao? 
-- Em sẽ giới thiệu cho họ biết. Vì môi trường thực tập ở đây rất thoái mái, có thể học hỏi được nhiều kiến thức từ các dịch vụ AWS.
+* Em sẽ giới thiệu cho họ biết. Vì môi trường thực tập ở đây rất thoái mái, có thể học hỏi được nhiều kiến thức từ các dịch vụ AWS.
 
 
 ### Đề xuất & mong muốn
 - Bạn có đề xuất gì để cải thiện trải nghiệm trong kỳ thực tập?
-- Không có ý kiến đề xuất gì thêm. 
+* Không có ý kiến đề xuất gì thêm. 
 - Bạn có muốn tiếp tục chương trình này trong tương lai?
-- Nếu có cơ hội sẽ tiếp tục chương trình trong tương lai.
+* Nếu có cơ hội sẽ tiếp tục chương trình trong tương lai.
 - Góp ý khác (tự do chia sẻ):
-- Không có.
+* Không có.
