@@ -1,9 +1,11 @@
-title: "Bài Thu Hoạch Sự Kiện"
+---
+title: "Event 1"
 date: 2026-07-22
 weight: 1
 chapter: false
-pre: " <b> 1.0. </b> "
+pre: " <b> 4.1. </b> "
 ---
+
 
 # Bài thu hoạch sự kiện: FCAJ Community Day ngày 09/05/2026
 
