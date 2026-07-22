@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 1.1. </b> "
 ---
 ### Mục tiêu tuần 1:
-Tham gia chương trình FCAJ, tìm hiểu dịch vụ AWS
+Tham gia chương trình FCAJ, tìm hiểu dịch vụ AWS.
 
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
@@ -18,7 +18,6 @@ Tham gia chương trình FCAJ, tìm hiểu dịch vụ AWS
 
 
 ### Kết quả đạt được tuần 1:
-
-Làm quen với môi trường làm việc của công ty
-Tham gia Event, học hỏi một số kinh nghiệm do các mentor chia sẻ
-Tìm hiểu một số dịch vụ của AWS
+ Làm quen với môi trường làm việc của công ty.
+ Tham gia Event, học hỏi một số kinh nghiệm do các mentor chia sẻ.
+ Tìm hiểu một số dịch vụ của AWS.
