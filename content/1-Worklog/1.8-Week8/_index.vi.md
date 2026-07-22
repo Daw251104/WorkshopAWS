@@ -5,14 +5,10 @@ weight: 8
 chapter: false
 pre: " <b> 1.8. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
 
 ### Mục tiêu tuần 8:
-
-* Hoàn thành các công việc được giao trong tuần.
-* Thực hành và nắm vững các kiến thức liên quan đến AWS và dự án.
+Thiết lập và khởi tạo dữ liệu màn chơi cho hệ thống Minigame Sudoku trên cơ sở dữ liệu đám mây.
+Tối ưu hóa và hoàn thiện luồng giao tiếp dữ liệu giữa Server và Client, đảm bảo tính đồng bộ và chính xác khi hiển thị nội dung game.
 
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
@@ -22,5 +18,4 @@ pre: " <b> 1.8. </b> "
 
 ### Kết quả đạt được tuần 8:
 
-* Nắm bắt và hoàn thành tốt các chỉ tiêu của tuần.
-* Tích lũy thêm kinh nghiệm thực tế về triển khai và quản lý tài nguyên.
+Hoàn thiện được chu trình phát triển một tính năng hoàn chỉnh (Minigame Sudoku) từ khâu thiết kế Database, viết API Serverless cho đến tích hợp giao diện.

@@ -5,15 +5,10 @@ weight: 9
 chapter: false
 pre: " <b> 1.9. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
 
 ### Mục tiêu tuần 9:
-
-* Hoàn thành các công việc được giao trong tuần.
-* Thực hành và nắm vững các kiến thức liên quan đến AWS và dự án.
-
+Tối ưu hóa hiệu năng hiển thị và giảm độ trễ (latency) cho ứng dụng bằng cách xây dựng cơ chế bộ nhớ đệm (cache) phía Client.
+Hoàn thiện thuật toán sinh màn chơi động (Dynamic Generation) và quản lý phiên chơi (Session Management)
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --------- | ------------ | --------------- | -------------- |
@@ -22,5 +17,5 @@ pre: " <b> 1.9. </b> "
 
 ### Kết quả đạt được tuần 9:
 
-* Nắm bắt và hoàn thành tốt các chỉ tiêu của tuần.
-* Tích lũy thêm kinh nghiệm thực tế về triển khai và quản lý tài nguyên.
+Tối ưu hóa hiệu năng Frontend, biết cách kết hợp hiệu quả giữa công cụ quản lý State (Redux) và giải pháp lưu trữ cục bộ (electron-store) trong các ứng dụng desktop/web.
+Hiểu sâu sắc hơn về kiến trúc Server-Authoritative trong lập trình game, đảm bảo mọi logic quan trọng (sinh dữ liệu, cấp session) đều phải do Server quyết định để bảo mật hệ thống.

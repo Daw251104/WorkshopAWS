@@ -5,15 +5,10 @@ weight: 4
 chapter: false
 pre: " <b> 1.4. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
 
 ### Mục tiêu tuần 4:
-
-* Hoàn thành các công việc được giao trong tuần.
-* Thực hành và nắm vững các kiến thức liên quan đến AWS và dự án.
-
+Nghiên cứu lý thuyết và thực hành triển khai Cơ sở dữ liệu quan hệ (Amazon RDS) và Phi quan hệ (Amazon DynamoDB).
+Tìm hiểu về kiến trúc Serverless thông qua dịch vụ điện toán đám mây AWS Lambda.
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --------- | ------------ | --------------- | -------------- |
@@ -23,6 +18,6 @@ pre: " <b> 1.4. </b> "
 
 
 ### Kết quả đạt được tuần 4:
+Thành thạo các công cụ quản trị khác nhau (Console, CLI, SDK) để làm việc linh hoạt với hệ thống NoSQL DynamoDB.
 
-* Nắm bắt và hoàn thành tốt các chỉ tiêu của tuần.
-* Tích lũy thêm kinh nghiệm thực tế về triển khai và quản lý tài nguyên.
+Sơ bộ nắm bắt tư duy thiết kế hệ thống dạng Serverless để tối ưu chi phí vận hành và khả năng mở rộng tự động.

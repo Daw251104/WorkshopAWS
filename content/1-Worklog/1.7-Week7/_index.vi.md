@@ -5,14 +5,11 @@ weight: 7
 chapter: false
 pre: " <b> 1.7. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
-
 ### Mục tiêu tuần 7:
 
-* Hoàn thành các công việc được giao trong tuần.
-* Thực hành và nắm vững các kiến thức liên quan đến AWS và dự án.
+Hoàn thiện hệ thống API Backend cho Minigame (Sudoku) bằng kiến trúc Serverless (AWS Lambda).
+Xử lý các luồng giao dịch tài nguyên phức tạp, đảm bảo tính toàn vẹn dữ liệu trong cơ sở dữ liệu.
+Nghiên cứu và áp dụng các cơ chế chống gian lận (Anti-cheat) để bảo vệ hệ thống trước các hành vi can thiệp trái phép từ phía Client.
 
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
@@ -24,5 +21,8 @@ pre: " <b> 1.7. </b> "
 
 ### Kết quả đạt được tuần 7:
 
-* Nắm bắt và hoàn thành tốt các chỉ tiêu của tuần.
-* Tích lũy thêm kinh nghiệm thực tế về triển khai và quản lý tài nguyên.
+Nâng cao tư duy thiết kế API an toàn (Secure API Design), biết cách áp dụng nguyên tắc không tin cậy dữ liệu từ Client (Never trust the client).
+
+Thành thạo cách sử dụng cơ chế Transaction trong cơ sở dữ liệu NoSQL để xử lý các giao dịch liên quan đến tiền tệ ảo (eCoin/Sanity) một cách nguyên vẹn (ACID compliance).
+
+Tích lũy kinh nghiệm thực chiến trong việc phân tích các lỗ hổng gian lận game cơ bản và tự xây dựng giải pháp phòng chống (Anti-cheat) hiệu quả.

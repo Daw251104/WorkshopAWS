@@ -5,14 +5,9 @@ weight: 2
 chapter: false
 pre: " <b> 1.2. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
 
 ### Mục tiêu tuần 2:
-
-* Hoàn thành các công việc được giao trong tuần.
-* Thực hành và nắm vững các kiến thức liên quan đến AWS và dự án.
+Thảo luận đề tài nhóm và tìm hiểu về AWS IAM
 
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
@@ -25,5 +20,5 @@ pre: " <b> 1.2. </b> "
 
 ### Kết quả đạt được tuần 2:
 
-* Nắm bắt và hoàn thành tốt các chỉ tiêu của tuần.
-* Tích lũy thêm kinh nghiệm thực tế về triển khai và quản lý tài nguyên.
+Nắm vững nguyên tắc đặc quyền tối thiểu (Least Privilege) khi cấp quyền thông qua AWS IAM.
+Có khả năng triển khai máy chủ EC2 và khắc phục các sự cố kết nối mạng cơ bản
