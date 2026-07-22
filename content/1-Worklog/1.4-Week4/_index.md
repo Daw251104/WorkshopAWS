@@ -14,7 +14,7 @@ pre: " <b> 1.4. </b> "
 | Day | Task | Start Date | Completion Date | Reference Materials |
 | --- | ---- | ---------- | --------------- | ------------------- |
 | Tue | Learn and perform lab on Amazon Relational Database Service (Amazon RDS): <br> - Create RDS Security Group <br> - Create DB Subnet Group <br> - Create EC2 instance <br> - Create RDS database instance <br> - Perform basic DB creation operations in RDS | 26/05/2026 | 26/05/2026 | <https://000005.awsstudygroup.com> |
-| Fri | Work with Amazon DynamoDB: <br> - Use AWS Management Console <br> - Use AWS CloudShell <br> - Deploy DB using AWS SDK | 29/05/2026 | 29/05/2026 | 000060.awsstudygroup.co |
+| Fri | Work with Amazon DynamoDB: <br> - Use AWS Management Console <br> - Use AWS CloudShell <br> - Deploy DB using AWS SDK | 29/05/2026 | 29/05/2026 | 000060.awsstudygroup.com |
 | Sat | Learn about AWS Lambda | 30/05/2026 | 30/05/2026 | <https://docs.aws.amazon.com/lambda/> |
 
 

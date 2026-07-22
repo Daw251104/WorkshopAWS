@@ -13,7 +13,7 @@ pre: " <b> 1.4. </b> "
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --------- | ------------ | --------------- | -------------- |
 | 3 | Tìm hiểu và thực hiện bài lab về Amazon Relational Database Service (Amazon RDS): <br> - Tạo RDS Security Group <br> - Tạo DB Subnet Group <br> - Tạo EC2 instance <br> - Tạo RDS database instance <br> - Thực hiện các thao tác tạo DB cơ bản trong RDS | 26/05/2026 | 26/05/2026 | <https://000005.awsstudygroup.com> |
-| 6 | Làm việc với Amazon DynamoDB: <br> -Sử dụng AWS Management Console <br> -Sử dụng AWS CloudShell <br> - Triển khai DB bằng AWS SDK | 29/05/2026 | 29/05/2026 | 000060.awsstudygroup.co |
+| 6 | Làm việc với Amazon DynamoDB: <br> -Sử dụng AWS Management Console <br> -Sử dụng AWS CloudShell <br> - Triển khai DB bằng AWS SDK | 29/05/2026 | 29/05/2026 | 000060.awsstudygroup.com |
 | 7 | Tìm hiểu về AWS Lambda | 30/05/2026 | 30/05/2026 | <https://docs.aws.amazon.com/lambda/> |
 
 
